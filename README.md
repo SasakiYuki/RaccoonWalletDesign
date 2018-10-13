@@ -1,6 +1,4 @@
 
-<img src="https://github.com/SasakiYuki/RaccoonWalletDesign/blob/master/design/github_eyecatch/raccoon_github.png" alt="RaccoonWallet " title="RaccoonWallet ">
-
 # RaccoonWallet_Design
 It is a repository for design development of Raccoon Wallet.
 
@@ -17,6 +15,6 @@ Illustrator、Adobe XD、Photoshop
 
 
 # Authors
-Rhime　@CryptoRhizome
+Rhime　@Rhime_design
 
 # References
